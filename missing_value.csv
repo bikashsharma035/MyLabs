@@ -1,0 +1,16 @@
+cno,name,product,ranking,ranking2
+1,A,shampoo,5,5
+2,B,shampoo,4,4
+3,C,shampoo,NaN,NaN
+4,D,shampoo,NaN,NaN
+5,E,shampoo,7,7
+6,F,shampoo,8,8
+7,A,shampoo,5,5
+8,G,sugar,NaN,not
+9,A,sugar,NaN,NaN
+10,B,sugar,7,7
+11,C,sugar,2,2
+12,A,salt,NaN,NaN
+13,B,salt,6,6
+14,D,salt,7,7
+15,D,salt,NaN,na
